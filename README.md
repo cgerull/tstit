@@ -19,11 +19,11 @@ theme: uniblog
 
 And then execute:
 
-    `$ bundle`
+    $ bundle
 
 Or install it yourself as:
 
-    `$ gem install uniblog`
+    $ gem install uniblog
 
 ## Usage
 
@@ -50,4 +50,3 @@ The theme is available as open source under the terms of the [MIT License](https
 
 - search function
 - different layout for categories
-- RSS feed
