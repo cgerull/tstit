@@ -1,0 +1,34 @@
+.navbar {
+  margin-bottom: 1.25rem;
+}
+
+.img-post {
+  @extend .img-fluid;
+  @extend .mx-auto;
+  @extend .d-block;
+  @extend .rounded;
+}
+
+.table-bordered-striped {
+  @extend .table;
+  @extend .table-bordered;
+  @extend .table-striped;
+}
+
+.subheader {
+  line-height: 1.4;
+  color: #6f6f6f;
+  font-weight: normal;
+  font-size: normal;
+  margin-top: .2rem;
+  margin-bottom: .5rem;
+}
+
+.post_short {
+
+}
+
+.description {
+  margin-top: 1.25rem;
+  margin-bottom: 1.5rem;
+}

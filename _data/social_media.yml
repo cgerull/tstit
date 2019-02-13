@@ -1,0 +1,12 @@
+- name: Twitter
+  url: https://twitter.com/cgerull
+  font_awesome: fa-twitter
+- name: Gitgub
+  url: https://github.com/cgerull
+  font_awesome: fa-github
+- name: LinkedIn
+  url: https://www.linkedin.com/in/clausgerull
+  font_awesome: fa-linkedin
+- name: Flickr
+  url: https://www.flickr.com/photos/cgerull/
+  font_awesome: fa-flickr
