@@ -8,7 +8,7 @@ description: "A static blog where I keep my cheatsheets, recipes and information
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://it.gerull.nl" # the base hostname & protocol for your site
 lang: "en"
-# theme: uniblog
+theme: cayman
 # logo:
 #   path: "/img/favicons/android-chrome-192x192.png"
 #   width: 192
