@@ -47,3 +47,5 @@ compress_html:
   comments: ["<!--", "-->"]
   ignore:
     envs: [travis]
+
+theme: jekyll-theme-cayman
