@@ -5,7 +5,7 @@ author:
   twitter: cgerull
   github: cgerull
 description: "A static blog where I keep my cheatsheets, recipes and information about procedures and more general tips. In short, my route through Information Technology."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/tstit" # the subpath of your site, e.g. /blog
 url: "https://it.gerull.nl" # the base hostname & protocol for your site
 lang: "en"
 theme: jekyll-theme-cayman
