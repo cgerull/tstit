@@ -8,7 +8,7 @@ description: "A static blog where I keep my cheatsheets, recipes and information
 #baseurl: "/tstit" # the subpath of your site, e.g. /blog
 #url: "https://it.gerull.nl" # the base hostname & protocol for your site
 lang: "en"
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 # logo:
 #   path: "/img/favicons/android-chrome-192x192.png"
 #   width: 192
