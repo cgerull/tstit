@@ -9,7 +9,7 @@ tags:
   - Logical Volumes
 comment: false
 categories:
-  - Linux
+  - linux
 date: 2014-03-01
 ---
 

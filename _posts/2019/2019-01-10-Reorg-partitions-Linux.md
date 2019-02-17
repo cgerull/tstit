@@ -3,7 +3,7 @@ layout: post
 title: Reorganize physical volumes
 description: "A guide to reorganize Linux LVM disks."
 tag: linux lvm partitions
-category: Linux
+category: linux
 date: 2019-01-10 08:13:17
 ---
 # Reorganize physical volumes

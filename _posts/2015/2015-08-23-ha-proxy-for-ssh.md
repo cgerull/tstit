@@ -8,7 +8,7 @@ tags:
   - Linux
 comment: false
 categories:
-  - Linux
+  - linux
 date: 2015-08-23
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Merge 2 Git repositories
 description: "Merge 2 unrelated repositories into one."
 tag: Git
-category: Git
+category: git
 date: 2018-09-04 12:23:17
 ---
 

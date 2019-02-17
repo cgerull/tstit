@@ -11,9 +11,19 @@ description: All post entries ordered by categories.
 
 <div>
     {% for tag in tags %}
-    <a href="#{{ tag | first | slugify }}">{{ tag | first | replace: '-', ' ' }} 
-        <sup class="badge badge-pill badge-dark">{{
-            tag | last | size }}</sup></a>
+    <a href="#{{ tag | first | slugify }}">
+        <button type="button" class="btn btn-outline-secondary">
+            {{ tag | first | replace: '-', ' ' }}
+                <span class="badge badge-light">{{
+                    tag | last | size }}</span>
+        </button></a>
+
+        <!-- <sup class="badge badge-pill badge-dark">{{
+            tag | last | size }}</sup></a> 
+        <button type="button" class="btn btn-primary">
+        Notifications <span class="badge badge-light">4</span>
+        </button>
+        -->
     {% endfor %}
 </div>
 
