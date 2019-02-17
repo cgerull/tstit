@@ -5,7 +5,7 @@
     
 <body>
     <div class="container">
-        <img src="/assets/img/banner.jpg" alt="keyboard" class="img-fluid"> 
+        <img src={{ "/assets/img/banner.jpg" | prepend: site.baseurl | prepend: site.url }} alt="keyboard" class="img-fluid"> 
         <div>
             {% include navbar.html %}
         </div>
