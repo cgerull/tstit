@@ -4,7 +4,7 @@ title:  "Git for Ubuntu"
 description: "How to install a recent Git version on Ubuntu."
 date:   2014-09-22
 categories: ubuntu git
-tags: git
+tags: Git
 ---
 
 Running a recent Git for Ubuntu can sometimes be problematic. The Git version in the offical Ubuntu archives lags behind the maintainers, stable, version. To solve this install the Maintainers team version.

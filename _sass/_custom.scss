@@ -24,11 +24,23 @@
   margin-bottom: .5rem;
 }
 
-.post_short {
+.cartouche {
+  border: #5e6268 1px dotted;
+  border-radius: 30px;
+  padding: .1rem .6rem .1rem .6rem;
 
 }
 
 .description {
   margin-top: 1.25rem;
   margin-bottom: 1.5rem;
+}
+
+.banner_section {
+  width: 100%;
+  height: 100%;
+}
+
+.year {
+  font-weight: lighter;
 }

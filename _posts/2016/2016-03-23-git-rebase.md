@@ -3,7 +3,7 @@ layout: post
 title: Git rebase
 description: "A brief description how to simplyfy Git merge operations."
 tag: Git
-category: Git
+category: git
 date: 2016-03-23 22:23:17
 ---
 

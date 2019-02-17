@@ -2,8 +2,10 @@
 layout: post
 title: Confluence upgrade recipe
 description: "Steps to install / upgrade Confluence with the Atlassian bin installer on Linux."
-tag: Confluence Atlassian
-category: Atlassian
+tag: 
+    - Confluence 
+    - Atlassian
+category: atlassian
 date: 2018-12-18 08:13:17
 ---
 # Confluence upgrade

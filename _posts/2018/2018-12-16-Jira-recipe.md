@@ -2,8 +2,10 @@
 layout: post
 title: Jira upgrade recipe
 description: "Install or upgrade Atlassian Jira with the binary installer on Linux."
-tag: Jira Atlassian
-category: Atlassian
+tag: 
+    - Jira 
+    - Atlassian
+category: atlassian
 date: 2018-12-16 017:37:10
 ---
 # Jira upgrade

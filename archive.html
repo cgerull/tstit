@@ -14,8 +14,10 @@ description: All post entries ordered by date.
 {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
 {% if forloop.first %}
-<h2><span class="badge badge-pill badge-danger">{{ this_year }}</span></h2>
-<h3 class='pl-4'><span class="badge badge-pill badge-warning">{{ this_month }}</span></h3>
+<!-- >h2><span class="badge badge-pill badge-secondary">{{ this_year }}</span></h2> -->
+<h2><span class="year">{{ this_year }}</span></h2>
+<hr>
+<h3 class='pl-4'><span class="badge badge-pill badge-light">{{ this_month }}</span></h3>
 <div class='pl-4'>
     <ul>
         {% endif %}
@@ -28,15 +30,17 @@ description: All post entries ordered by date.
 {% if this_year != next_year %}
 </ul>
 </div>
-<h2><span class="badge badge-pill badge-danger">{{ next_year }}</span></h2>
-<h3 class='pl-4'><span class="badge badge-pill badge-warning">{{ next_month }}</span></h3>
+<!-- <h2><span class="badge badge-pill badge-secondary">{{ next_year }}</span></h2> -->
+<h2><span class="year">{{ this_year }}</span></h2>
+<hr>
+<h3 class='pl-4'><span class="badge badge-pill badge-light">{{ next_month }}</span></h3>
 <div class='pl-4'>
     <ul>
         {% else %}
         {% if this_month != next_month %}
     </ul>
 </div>
-<h3 class='pl-4'><span class="badge badge-pill badge-warning">{{ next_month }}</span></h3>
+<h3 class='pl-4'><span class="badge badge-pill badge-light">{{ next_month }}</span></h3>
 <div class='pl-4'>
     <ul>
         {% endif %}
