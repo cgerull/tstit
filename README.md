@@ -27,7 +27,7 @@ Or install it yourself as:
 
 ## Usage
 
-Install the gem and use Jekyllon your own server. If you want to use the theme with GitHub pages, unpack the gem and install the layout to your page directory.
+Install the gem and use Jekyll on your own server. If you want to use the theme with GitHub pages, unpack the gem and install the layout to your page directory.
 
 ## Contributing
 
